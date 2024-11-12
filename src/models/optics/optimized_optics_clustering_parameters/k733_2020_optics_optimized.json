@@ -1,0 +1,42 @@
+{
+    "silhouette": {
+        "score": 0.6013030769900806,
+        "epsilon": 0.1,
+        "min_samples": 8,
+        "metric": "chebyshev",
+        "cluster_method": "xi",
+        "xi": 0.03
+    },
+    "calinski_harabasz": {
+        "score": 467.07423151154677,
+        "epsilon": 0.1,
+        "min_samples": 8,
+        "metric": "chebyshev",
+        "cluster_method": "xi",
+        "xi": 0.03
+    },
+    "davies_bouldin": {
+        "score": 0.5845621969549045,
+        "epsilon": 0.1,
+        "min_samples": 8,
+        "metric": "mahalanobis",
+        "cluster_method": "xi",
+        "xi": 0.07
+    },
+    "aic": {
+        "score": -2663.1801346480756,
+        "epsilon": 0.4,
+        "min_samples": 5,
+        "metric": "manhattan",
+        "cluster_method": "dbscan",
+        "xi": null
+    },
+    "bic": {
+        "score": -2660.2243075904744,
+        "epsilon": 0.4,
+        "min_samples": 5,
+        "metric": "manhattan",
+        "cluster_method": "dbscan",
+        "xi": null
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "silhouette": {
+        "score": 0.6832341339956322,
+        "epsilon": 4.9,
+        "min_samples": 7,
+        "metric": "manhattan",
+        "cluster_method": "dbscan",
+        "xi": null
+    },
+    "calinski_harabasz": {
+        "score": 1037.1553423234657,
+        "epsilon": 4.5,
+        "min_samples": 9,
+        "metric": "euclidean",
+        "cluster_method": "dbscan",
+        "xi": null
+    },
+    "davies_bouldin": {
+        "score": 0.46456795788539923,
+        "epsilon": 0.4,
+        "min_samples": 6,
+        "metric": "mahalanobis",
+        "cluster_method": "dbscan",
+        "xi": null
+    }
+}

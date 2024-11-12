@@ -1,0 +1,18 @@
+{
+    "k729_2022": {
+        "bandwidth": 0.8,
+        "kernel": "gaussian",
+        "percentile": 20
+    },
+    "k733_2020": {
+        "bandwidth": 1.5,
+        "kernel": "gaussian",
+        "percentile": 5
+    },
+    "k733_2018": {
+        "bandwidth": 1.5,
+        "kernel": "gaussian",
+        "percentile": 5
+    }
+
+}
